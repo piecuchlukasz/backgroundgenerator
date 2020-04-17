@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/piecuchlukasz/backgroundgenerator/static/css/main.98626be4.chunk.css",
+    "main.js": "/piecuchlukasz/backgroundgenerator/static/js/main.017e53c5.chunk.js",
+    "main.js.map": "/piecuchlukasz/backgroundgenerator/static/js/main.017e53c5.chunk.js.map",
+    "runtime-main.js": "/piecuchlukasz/backgroundgenerator/static/js/runtime-main.ebd9184b.js",
+    "runtime-main.js.map": "/piecuchlukasz/backgroundgenerator/static/js/runtime-main.ebd9184b.js.map",
+    "static/js/2.5b85b3c7.chunk.js": "/piecuchlukasz/backgroundgenerator/static/js/2.5b85b3c7.chunk.js",
+    "static/js/2.5b85b3c7.chunk.js.map": "/piecuchlukasz/backgroundgenerator/static/js/2.5b85b3c7.chunk.js.map",
+    "index.html": "/piecuchlukasz/backgroundgenerator/index.html",
+    "precache-manifest.f54451be0517ff4f26add131bdddd2cd.js": "/piecuchlukasz/backgroundgenerator/precache-manifest.f54451be0517ff4f26add131bdddd2cd.js",
+    "service-worker.js": "/piecuchlukasz/backgroundgenerator/service-worker.js",
+    "static/css/main.98626be4.chunk.css.map": "/piecuchlukasz/backgroundgenerator/static/css/main.98626be4.chunk.css.map",
+    "static/js/2.5b85b3c7.chunk.js.LICENSE.txt": "/piecuchlukasz/backgroundgenerator/static/js/2.5b85b3c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebd9184b.js",
+    "static/js/2.5b85b3c7.chunk.js",
+    "static/css/main.98626be4.chunk.css",
+    "static/js/main.017e53c5.chunk.js"
+  ]
+}
